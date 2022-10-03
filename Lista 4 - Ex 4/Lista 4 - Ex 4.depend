@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1607375354 source:c:\users\edukc\desktop\ufpr\2020.3 - período especial 2\programação orientada a objetos\listas\respostas enviadas\lista 4 - exercicio 2\lista 4 - ex 4\main.cpp
+	<iostream>
+	"Complexo.h"
+
+1607381297 c:\users\edukc\desktop\ufpr\2020.3 - período especial 2\programação orientada a objetos\listas\respostas enviadas\lista 4 - exercicio 2\lista 4 - ex 4\complexo.h
+	<iostream>
+
+1607381781 source:c:\users\edukc\desktop\ufpr\2020.3 - período especial 2\programação orientada a objetos\listas\respostas enviadas\lista 4 - exercicio 2\lista 4 - ex 4\complexo.cpp
+	<iostream>
+	<math.h>
+	<locale.h>
+	"Complexo.h"
+
